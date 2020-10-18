@@ -10,21 +10,21 @@
 
 - 🎙️ I built my first website in 2007 for [JoJo Levesque](https://pt.wikipedia.org/wiki/JoJo) brazilian fanclub.
 
-- 💼 I’m currently working at [Keezag](https://www.keezag.com).
+- 💼 I’m currently working at [Keezag](https://bit.ly/3j6Lh2N).
 
 - 📚 I’m currently learning [Flutter](https://flutter.dev/).
 
-- ✍️ I write articles on [Dev.to](https://dev.to/jullymac).
+- ✍️ I write articles on [Dev.to](https://bit.ly/35e8aN3).
 
-- 📄 Know about my experiences in [Linkedin](https://www.linkedin.com/in/juliana-macedo).
+- 📄 Know about my experiences in [Linkedin](https://bit.ly/346sz7k).
 
 ## Social media
 
 <p align="left">
-<a href="https://dev.to/jullymac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jullymac" height="30" width="40" /></a>
-<a href="https://twitter.com/jullymac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jullymac" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juliana-macedo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juliana-macedo" height="30" width="40" /></a>
-<a href="https://instagram.com/jullymac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jullymac" height="30" width="40" /></a>
+<a href="https://bit.ly/35e8aN3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jullymac" height="30" width="40" /></a>
+<a href="https://bit.ly/3lZthcI" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jullymac" height="30" width="40" /></a>
+<a href="https://bit.ly/346sz7k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juliana-macedo" height="30" width="40" /></a>
+<a href="https://bit.ly/3o2njcO" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jullymac" height="30" width="40" /></a>
 </p>
 
 ## Languages and tools
