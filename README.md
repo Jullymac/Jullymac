@@ -27,11 +27,6 @@
 <a href="https://instagram.com/jullymac" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jullymac" height="30" width="40" /></a>
 </p>
 
-## Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## Languages and tools
 
 ### Frontend:
