@@ -87,7 +87,7 @@
 
 ## On Github
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jullymac" alt="jullymac" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jullymac&margin-w=10" alt="jullymac" /></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jullymac&show_icons=true&locale=en&layout=compact" alt="jullymac" />
 
