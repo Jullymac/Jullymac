@@ -2,7 +2,7 @@
 
 ## About me
 
-- 💻 I’m a full stack web developer.
+- 💻 I’m a senior full stack developer.
 
 - 👶 I was born in Rio de Janeiro, Brazil.
 
