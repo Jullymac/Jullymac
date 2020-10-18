@@ -89,6 +89,6 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jullymac&margin-w=10" alt="jullymac" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jullymac&show_icons=true&locale=en&layout=compact" alt="jullymac" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jullymac&show_icons=true&locale=en&layout=compact&langs_count=8" alt="jullymac" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=jullymac&show_icons=true&locale=en" alt="jullymac" />
+<img src="https://github-readme-stats.vercel.app/api?username=jullymac&show_icons=true&locale=en&count_private=true" alt="jullymac" />
