@@ -6,9 +6,9 @@
 
 - 👶 I was born in Rio de Janeiro, Brazil.
 
-- 🏡I moved to Porto, Portugal in october 2018.
+- 🏡 I moved to Porto, Portugal in october 2018.
 
-- 🎙️ I built my first website in 2007 for [JoJo Levesque](https://pt.wikipedia.org/wiki/JoJo) brazilian fanclub.
+- 🎙️ I built my first website in 2007.
 
 - 💼 I’m currently working at [Keezag](https://bit.ly/3j6Lh2N).
 
