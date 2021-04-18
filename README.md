@@ -12,7 +12,7 @@
 
 - 💼 I’m currently working at [Keezag](https://bit.ly/3j6Lh2N).
 
-- 📚 I’m currently learning [Flutter](https://flutter.dev/).
+- 📚 I’m currently learning [Typescript](https://www.typescriptlang.org/).
 
 - ✍️ I write articles on [Dev.to](https://bit.ly/35e8aN3).
 
@@ -21,74 +21,51 @@
 ## Social media
 
 <p align="left">
-<a href="https://bit.ly/35e8aN3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jullymac" height="30" width="40" /></a>
-<a href="https://bit.ly/3lZthcI" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jullymac" height="30" width="40" /></a>
-<a href="https://bit.ly/346sz7k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juliana-macedo" height="30" width="40" /></a>
-<a href="https://bit.ly/3o2njcO" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jullymac" height="30" width="40" /></a>
+<a href="https://bit.ly/35e8aN3" target="blank"><img align="center" src="./logos/dev-to.svg" alt="Dev.to: jullymac" height="30" /></a> <a href="https://bit.ly/3lZthcI" target="blank"><img align="center" src="./logos/twitter.svg" alt="Twitter: jullymac" height="30" /></a> <a href="https://bit.ly/346sz7k" target="blank"><img align="center" src="./logos/linkedin.svg" alt="Linkedin: juliana-macedo" height="30" /></a> <a href="https://bit.ly/3o2njcO" target="blank"><img align="center" src="./logos/instagram.svg" alt="Instagram: Jullymac" height="30" /></a>
 </p>
 
 ## Languages and tools
 
 ### Frontend:
 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://material-ui.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material-ui" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-<a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://webpack.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a>
+<p align="left">
+<a href="https://reactjs.org" target="_blank"><img align="center" src="./logos/reactjs.svg" alt="ReactJs" title="ReactJs" height="40"/></a> &bull; <a href="https://redux.js.org" target="_blank"><img align="center" src="./logos/redux.svg" alt="Redux" title="Redux" height="40"/></a> &bull; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" src="./logos/javascript.svg" alt="Javascript" title="Javascript" height="40"/></a> &bull; <a href="https://www.w3.org/html/" target="_blank"><img align="center" src="./logos/html5.svg" alt="HTML 5" title="HTML 5" height="40"/></a> &bull; <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="./logos/css3.svg" alt="CSS 3" title="CSS 3" height="40"/></a> &bull; <a href="https://nextjs.org/" target="_blank"><img align="center" src="./logos/nextjs.svg" alt="NextJs" title="NextJs" height="40"/></a> &bull; <a href="https://material-ui.com/" target="_blank"><img align="center" src="./logos/material-ui.svg" alt="Material UI" title="Material UI" height="40"/></a> &bull; <a href="https://sass-lang.com" target="_blank"><img align="center" src="./logos/sass.svg" alt="SASS" title="SASS" height="40"/></a> &bull; <a href="https://babeljs.io/" target="_blank"><img align="center" src="./logos/babel.svg" alt="Babel" title="Babel" height="40"/></a> &bull; <a href="https://getbootstrap.com" target="_blank"><img align="center" src="./logos/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="40"/></a> &bull; <a href="https://www.chartjs.org" target="_blank"><img align="center" src="./logos/chartjs.svg" alt="Chartjs"  title="Chartjs" height="40"/></a> &bull; <a href="https://jestjs.io" target="_blank"><img align="center" src="./logos/jestjs.svg" alt="Jest" title="Jest" height="40"/></a>
+</p>
 
 ### Backend:
 
-<a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://sequelize.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-<a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
+<p align="left">
+<a href="https://nodejs.org" target="_blank"><img align="center" src="./logos/nodejs.svg" alt="Nodejs" title="Nodejs" height="40"/></a> &bull; <a href="https://adonisjs.com" target="_blank"><img align="center" src="./logos/adonisjs.svg" alt="Adonis" title="Adonis" height="40"/></a> &bull; <a href="https://expressjs.com" target="_blank"><img align="center" src="./logos/express.svg" alt="Express" title="Express" height="40"/></a> &bull; <a href="https://sequelize.org" target="_blank"><img align="center" src="./logos/sequelize.svg" alt="Sequelize" title="Sequelize" height="40"/></a> &bull; <a href="https://www.php.net" target="_blank"><img align="center" src="./logos/php.svg" alt="PHP" title="PHP" height="40"/></a> &bull; <a href="https://laravel.com/" target="_blank"><img align="center" src="./logos/laravel.svg" alt="Laravel" title="Laravel" height="40"/></a> &bull; <a href="https://codeigniter.com" target="_blank"><img align="center" src="./logos/codeigniter.svg" alt="Codeigniter" title="Codeigniter" height="40"/></a>
+</p>
 
 ### Database:
 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank"><img align="center" src="./logos/mysql.svg" alt="MySQL" title="MySQL" height="40"/></a> &bull; <a href="https://www.postgresql.org" target="_blank"><img align="center" src="./logos/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="40"/></a>
+</p>
 
 ### Devops:
 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://www.digitalocean.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/digitalocean-icon-1.svg" alt="digitaloceani" width="40" height="40"/> </a>
-
-### Mobile:
-
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<p align="left">
+<a href="https://www.docker.com/" target="_blank"><img align="center" src="./logos/docker.svg" alt="Docker" title="Docker" height="40"/></a> &bull; <a href="https://www.vagrantup.com/" target="_blank"><img align="center" src="./logos/vagrant.svg" alt="Vagrant" title="Vagrant" height="40"/></a> &bull; <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="center" src="./logos/bash.svg" alt="Bash" title="Bash" height="40"/></a> &bull; <a href="https://heroku.com" target="_blank"><img align="center" src="./logos/heroku.svg" alt="Heroku" title="Heroku" height="40"/></a> &bull; <a href="https://www.digitalocean.com/" target="_blank"><img align="center" src="./logos/digitalocean.svg" alt="DigitalOcean" title="DigitalOcean" height="40"/></a>
+</p>
 
 ### Software:
 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visual-studio-code" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a>
+<p align="left">
+<a href="https://code.visualstudio.com/" target="_blank"><img align="center" src="./logos/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="40"/></a> &bull; <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img align="center" src="./logos/phpstorm.svg" alt="PHPStorm" title="PHPStorm" height="40"/></a> &bull; <a href="https://postman.com" target="_blank"><img align="center" src="./logos/getpostman.svg" alt="Postman" title="Postman" height="40"/></a> &bull; <a href="https://www.figma.com/" target="_blank"><img align="center" src="./logos/figma.svg" alt="Figma" title="Figma" height="40"/></a> &bull; <a href="https://www.photoshop.com/en" target="_blank"><img align="center" src="./logos/photoshop-cc.svg" alt="Photoshop" title="Photoshop" height="40"/></a>
+</p>
 
 ### Others:
 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<p align="left">
+<a href="https://git-scm.com/" target="_blank"><img align="center" src="./logos/git.svg" alt="Git" title="Git" height="40"/></a> &bull; <a href="https://firebase.google.com/" target="_blank"><img align="center" src="./logos/firebase.svg" alt="Firebase" title="Firebase" height="40"/></a> &bull; <a href="https://ubuntu.com/" target="_blank"><img align="center" src="./logos/ubuntu.svg" alt="Ubuntu" title="Ubuntu" height="40"/></a>
+</p>
 
 ## On Github
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jullymac&margin-w=10" alt="jullymac" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=jullymac&margin-w=10" alt="jullymac" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jullymac&show_icons=true&locale=en&layout=compact&langs_count=8" alt="jullymac" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jullymac&show_icons=true&locale=en&layout=compact&langs_count=8" alt="jullymac" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=jullymac&show_icons=true&locale=en&count_private=true" alt="jullymac" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jullymac&show_icons=true&locale=en&count_private=true" alt="jullymac" />
